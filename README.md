@@ -55,6 +55,8 @@ In a terminal window, navigate to the root of the project folder. Run the follow
 python3 recommender.py
 ```
 
+[Link to the video of example walkthrough here](https://youtu.be/uxQvV9UxfnM)
+
 ## References
 [Recommender tutorial by ugis22](https://github.com/ugis22/music_recommender/blob/master/content%20based%20recommedation%20system/content_based_music_recommender.ipynb)
 
